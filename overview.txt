@@ -1,0 +1,5 @@
+The main point of my mechanics is to facilitate creating chains of actions called "moves". 
+These allow the player to "program" the actions their monsters can take during battle. 
+Not in an automated way however. The player must manually choose in battle what moves 
+to call out for their monster to act upon on the fly, to create a dynamic of both strategy 
+and in the moment thinking. 
